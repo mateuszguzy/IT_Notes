@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "2d06335580a2a704",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dfb2a206e907bd6",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-08-12 11.03.40.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04a8a5e04a953191",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e844b1377ef765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54cfe9a24df9a23e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63c7b4f4e1acb833",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "562c743a01f5f9c7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "5aa06e21153c4eb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "522a3f7402023556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a250bb4c22430cd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-12 11.03.40.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a90e55480a09dc14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-12 11.03.40.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d44efbb6539ad705",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fcefbbea5676166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-12 11.03.40.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ddd6471dff4afeab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5dfb2a206e907bd6",
+  "lastOpenFiles": [
+    "STX Next/Internals Free Tasks.md",
+    "Excalidraw/Drawing 2022-08-12 11.03.40.excalidraw.md",
+    "Pasted image 20220812112640.png",
+    "STX Next/Crash Course/Docker.md",
+    "STX Next/B2B.md",
+    "STX Next/STX Next.md",
+    "Programming/Python/1. Basic/1.7. Data types/1.7.4. Tuple/1.7.4.2. Operations/1.7.4.2.2 Sorting.md",
+    "Programming/Python/1. Basic/1.7. Data types/1.7.4. Tuple/1.7.4.2. Operations/1.7.4.2.1 Comparison.md",
+    "Programming/Python/1. Basic/1.7. Data types/1.7.4. Tuple/1.7.4.1 Declaration.md",
+    "Excalidraw/Drawing 2022-08-09 13.26.12.excalidraw.md"
+  ]
+}
