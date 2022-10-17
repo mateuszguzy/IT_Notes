@@ -85,7 +85,7 @@ With cursor located on e.g. function press below to take a quick glance at the d
 
 #### 14. View parameter info
 Use when cursor is located inside bracket of a function. Works for function that have correct docu, so mostly in-build.
-> Ctrl + O
+> Ctrl + P
 
 
 
